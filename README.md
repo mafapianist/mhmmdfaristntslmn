@@ -10,6 +10,7 @@ Haii Welcomeee to my githubb 👋
 <div align="center">
   <img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg">
   <img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2000px-Unofficial_JavaScript_logo_2.svg.png">
+  <img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1200px-Bash_Logo_Colored.svg.png">
 </div>
 </p>
 
